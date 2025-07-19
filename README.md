@@ -1,4 +1,4 @@
-# INFOSYS Image Analyzer
+# Image Analyzer
 
 A powerful Flask-based web application that leverages AI to analyze images, providing features like alt text generation, SEO descriptions, social media content generation, medical image analysis, and advanced color analysis.
 
